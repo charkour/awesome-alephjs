@@ -1,6 +1,6 @@
 # Awesome Aleph.js [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of amazingly awesome things regarding Aleph.js ecosystem.
+> A curated list of amazingly awesome things regarding the Aleph.js ecosystem.
 
 ## Contents
 

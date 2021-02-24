@@ -32,7 +32,7 @@
 
 ## Boilerplates
 
-_Submit a PR_
+- [Templates](https://github.com/alephjs/alephjs-templates) - Templates for `aleph init`.
 
 ## Apps
 

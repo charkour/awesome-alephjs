@@ -2,6 +2,8 @@
 
 > A curated list of amazingly awesome things regarding the Aleph.js ecosystem.
 
+The Full-stack Framework in Deno
+
 ## Contents
 
 - [Community](#Community)
